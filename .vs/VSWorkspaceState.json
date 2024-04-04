@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookingTicketsCS",
+    "\\BookingTicketsCS\\BookingTickets",
+    "\\BookingTicketsCS\\BookingTickets\\Areas",
+    "\\BookingTicketsCS\\BookingTickets\\Areas\\Admin",
+    "\\BookingTicketsCS\\BookingTickets\\Areas\\Admin\\Controllers",
+    "\\BookingTicketsUser\\src\\app\\InvoiceOfUser",
+    "\\BookingTicketsUser\\src\\app\\ViewBooking",
+    "\\BookingTickets_Admin\\src"
+  ],
+  "SelectedNode": "\\BookingTicketsCS\\BookingTickets\\Areas\\Admin\\Controllers\\AccountController.cs",
+  "PreviewInSolutionExplorer": false
+}
